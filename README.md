@@ -7,7 +7,7 @@ A Data Scientist
 "I have some experience working part-time in the Data Science field, with a focus on Image Processing. I am interested in continuing to develop my skills in this area and am always eager to learn more. Looking forward to exploring new opportunities in the field."
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [Little-Site](http://puwarinsa.wixsite.com/little-site)
+* 🖥️  See my portfolio at [Little-Site](http://puwarinsa.wixsite.com/little-site) (Not Yet)
 * ✉️  You can contact me at [puwarin.sa@gmail.com](mailto:puwarin.sa@gmail.com)
 * 🧠  I'm learning Deep Learning, NLP
 
