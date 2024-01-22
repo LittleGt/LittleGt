@@ -7,7 +7,7 @@ A Data Scientist (Still 4th Years in University)
 "I have some experience working part-time in the Data Science field, with a focus on Image Processing. I am interested in continuing to develop my skills in this area and am always eager to learn more. Looking forward to exploring new opportunities in the field."
 
 * 🌍  I'm based in Thailand
-* 🖥️  Check out my resume at [Little-Site]([https://www.canva.com/design/DAF6nvBtKSE/YKucAUVjJxvcWj7NATG0nQ/view?utm_content=DAF6nvBtKSE&utm_campaign=designshare&utm_medium=link&utm_source=editor])
+* 🖥️  Check out my resume [HERE](https://www.canva.com/design/DAF6nvBtKSE/YKucAUVjJxvcWj7NATG0nQ/view?utm_content=DAF6nvBtKSE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 * ✉️  You can contact me at [puwarin.sa@gmail.com](mailto:puwarin.sa@gmail.com)
 * 🧠  I'm learning Deep Learning, NLP
 
