@@ -7,7 +7,7 @@ A Data Scientist (4th Years in University)
 "I have some experience working part-time in the Data Science field, with a focus on Image Processing. I am interested in continuing to develop my skills in this area and am always eager to learn more. Looking forward to exploring new opportunities in the field."
 
 * 🌍  Based in Thailand (Available to remotely / relocation with sponsorships)
-* 🖥️  Check out my resume [HERE!](https://www.canva.com/design/DAF6nvBtKSE/YKucAUVjJxvcWj7NATG0nQ/view?utm_content=DAF6nvBtKSE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+* 🖥️  Check out my resume ##[HERE!](https://www.canva.com/design/DAF6nvBtKSE/YKucAUVjJxvcWj7NATG0nQ/view?utm_content=DAF6nvBtKSE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 * ✉️  Contact me at [puwarin.sa@gmail.com](mailto:puwarin.sa@gmail.com)
 * 🧠  I'm learning Deep Learning, NLP
 
@@ -21,8 +21,7 @@ A Data Scientist (4th Years in University)
 <a href="https://www.hackerrank.com/puwarin_sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="puwarin_sa" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/littlegt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="littlegt" height="40" width="50" /></a>
 </p>
-</br>
-
+</br></br></br>
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
