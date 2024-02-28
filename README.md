@@ -50,7 +50,7 @@ A Data Scientist (4th Years in University)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=littlegt" alt="littlegt" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleGt&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="littlegt" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LittleGt&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="littlegt" /></p>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LittleGt&theme=radical&hide_border=false)<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LittleGt&theme=radical&hide_border=false" alt="littlegt" /></p>
 
 </br></br></br>
 
