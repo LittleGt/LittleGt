@@ -15,7 +15,7 @@ A Data Scientist (4th Years in University)
 
 
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me👀:
 <p align="left">
 <a href="https://linkedin.com/in/little-puwarin-sangkamas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="little-puwarin-sangkamas" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/puwarin_sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="puwarin_sa" height="30" width="40" /></a>
@@ -81,7 +81,7 @@ A Data Scientist (4th Years in University)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-profile-trophy.vercel.app/?username=LittleGt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleGt&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="littlegt" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LittleGt&theme=radical&hide_border=false" alt="littlegt" /></p>
@@ -89,7 +89,7 @@ A Data Scientist (4th Years in University)
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LittleGt&theme=radical&hide_border=false" alt="littlegt" /></p> -->
 </br>
 
-## 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 <p>&nbsp;<img align="center" src="https://github-contributor-stats.vercel.app/api?username=LittleGt&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="littlegt" /></p>
 </br></br>
 
