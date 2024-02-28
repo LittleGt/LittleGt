@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is LITTLE
 =========================================================================================================================================
 
-A Data Scientist (Still 4th Years in University)
+A Data Scientist (4th Years in University)
 ----------------
 
 "I have some experience working part-time in the Data Science field, with a focus on Image Processing. I am interested in continuing to develop my skills in this area and am always eager to learn more. Looking forward to exploring new opportunities in the field."
