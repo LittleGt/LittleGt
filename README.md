@@ -54,7 +54,8 @@ A Data Scientist (4th Years in University)
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LittleGt&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="littlegt" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LittleGt&theme=radical&hide_border=false" alt="littlegt" /></p> -->
 </br>
-### 🔝 Top Contributed Repo
+
+# 🔝 Top Contributed Repo
 <p>&nbsp;<img align="center" src="https://github-contributor-stats.vercel.app/api?username=LittleGt&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="littlegt" /></p>
 </br></br>
 
