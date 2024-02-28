@@ -79,7 +79,7 @@ A Data Scientist (4th Years in University)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-
+</br></br>
 ### 📊 GitHub Stats:
 ![](https://github-profile-trophy.vercel.app/?username=LittleGt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleGt&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="littlegt" /></p>
