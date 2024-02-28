@@ -47,12 +47,15 @@ A Data Scientist (4th Years in University)
 </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </a> </p>
 
+# 📊 GitHub Stats:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=littlegt" alt="littlegt" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleGt&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="littlegt" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LittleGt&theme=radical&hide_border=false" alt="littlegt" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LittleGt&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="littlegt" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LittleGt&theme=radical&hide_border=false" alt="littlegt" /></p> -->
+</br>
+### 🔝 Top Contributed Repo
+<p>&nbsp;<img align="center" src="https://github-contributor-stats.vercel.app/api?username=LittleGt&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="littlegt" /></p>
+</br></br>
 
-</br></br></br>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=littlegt&label=Profile%20views&color=0e75b6&style=flat" alt="littlegt" /> </p>
+<p align="right"> <img src="https://visitcount.itsvg.in/api?id=LittleGt&icon=0&color=0" alt="littlegt" /> </p>
