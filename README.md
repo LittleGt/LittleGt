@@ -49,7 +49,7 @@ A Data Scientist (4th Years in University)
 </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </a> </p> -->
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) 
@@ -80,7 +80,7 @@ A Data Scientist (4th Years in University)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-profile-trophy.vercel.app/?username=LittleGt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleGt&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="littlegt" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LittleGt&theme=radical&hide_border=false" alt="littlegt" /></p>
@@ -88,7 +88,7 @@ A Data Scientist (4th Years in University)
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LittleGt&theme=radical&hide_border=false" alt="littlegt" /></p> -->
 </br>
 
-# 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 <p>&nbsp;<img align="center" src="https://github-contributor-stats.vercel.app/api?username=LittleGt&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="littlegt" /></p>
 </br></br>
 
