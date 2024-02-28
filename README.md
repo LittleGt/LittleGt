@@ -46,11 +46,10 @@ A Data Scientist (Still 4th Years in University)
 </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </a> </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=littlegt&show_icons=true&locale=en&layout=compact" alt="littlegt" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=littlegt&show_icons=true&locale=en" alt="littlegt" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=littlegt" alt="littlegt" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=littlegt&show_icons=true&locale=en&layout=compact" alt="littlegt" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=littlegt&show_icons=true&locale=en" alt="littlegt" /></p>
+
 </br></br></br>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=littlegt&label=Profile%20views&color=0e75b6&style=flat" alt="littlegt" /> </p>
