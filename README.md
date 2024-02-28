@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is LITTLE
 =========================================================================================================================================
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=littlegt&label=Profile%20views&color=0e75b6&style=flat" alt="littlegt" /> </p>
 A Data Scientist (Still 4th Years in University)
 ----------------
 
@@ -11,7 +11,7 @@ A Data Scientist (Still 4th Years in University)
 * ✉️  Contact me at [puwarin.sa@gmail.com](mailto:puwarin.sa@gmail.com)
 * 🧠  I'm learning Deep Learning, NLP
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=littlegt&label=Profile%20views&color=0e75b6&style=flat" alt="littlegt" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=littlegt" alt="littlegt" /></a> </p>
 
