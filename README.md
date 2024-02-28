@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is LITTLE
 =========================================================================================================================================
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=littlegt&label=Profile%20views&color=0e75b6&style=flat" alt="littlegt" /> </p>
+
 A Data Scientist (Still 4th Years in University)
 ----------------
 
@@ -28,3 +28,6 @@ A Data Scientist (Still 4th Years in University)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=littlegt&show_icons=true&locale=en&layout=compact" alt="littlegt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=littlegt&show_icons=true&locale=en" alt="littlegt" /></p>
+</br></br></br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=littlegt&label=Profile%20views&color=0e75b6&style=flat" alt="littlegt" /> </p>
