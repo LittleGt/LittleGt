@@ -17,6 +17,7 @@ A Data Scientist (Still 4th Years in University)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/little-puwarin-sangkamas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="little-puwarin-sangkamas" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/puwarin_sa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="puwarin_sa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/littlegt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="littlegt" height="30" width="40" /></a>
 </p>
